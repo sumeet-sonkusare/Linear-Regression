@@ -6,4 +6,4 @@ By using the given dataset I have used linear regression algorithm to predict th
 
 Charts used: Scatter plot by using two variables of data with regression line
 
-https://raw.githubusercontent.com/sumeet-sonkusare/The-Sparks-Foundation-GRIP-Task-1/main/student_scores.csv
+Click here to see the Dataset: [DATA](https://raw.githubusercontent.com/sumeet-sonkusare/The-Sparks-Foundation-GRIP-Task-1/main/student_scores.csv)
