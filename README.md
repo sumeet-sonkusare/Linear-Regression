@@ -1,5 +1,5 @@
 # Simple Linear Regression
-### In this regression task I have predicted the percentage of marks that a student is expected to score based upon the number of hours they studied. 
+### In this regression task I have predicted the percentage of marks that a student is expected to score based upon the number of hours they study. 
 ### This is a simple linear regression task as it involves just two variables.
 
 ### By using the given dataset I have used linear regression algorithm to predict the score percentage
